@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "simfsm101_behav" "xil_defaultlib.simfsm101" -log "elaborate.log" 
