@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../Tarea1_Entregable.srcs/sources_1/new/fsm101.vhd" \
-"../../../../Tarea1_Entregable.srcs/sim_1/imports/1-Intro_files/simu_1a.vhd" \
-
-# Do not sort compile order
-nosort
